@@ -1,0 +1,19 @@
+
+
+img {
+  width: 75px;
+}
+
+.animal {
+  width: 200px;
+  height: 150px;
+}
+
+p {
+  margin: 5px;
+}
+
+.name {
+  text-transform: uppercase;
+  font-weight: 900;
+}
