@@ -2,7 +2,6 @@ main {
   background-size: cover;
   height: 100vh;
   display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
+  align-items: center;
 }
 
